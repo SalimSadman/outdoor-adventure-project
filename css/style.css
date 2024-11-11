@@ -70,9 +70,7 @@ header{
     padding: 0 5%;
 }
 
-.logo{
-    
-}
+
 .logo a{
     color: white;
     text-decoration: none;
@@ -88,7 +86,7 @@ header{
     
 }
 
-nav{}
+
 nav ul{
     margin: 0;
     padding: 0;
@@ -118,9 +116,7 @@ nav ul li a{
 }
 
 
-.banner h1{
-    
-}
+
 .banner button{
     background: red;
     border: 1px solid red;
@@ -173,9 +169,7 @@ nav ul li a{
     font-size: 20px;
     margin: 10px 0 0 0;
 }
-.event-item p{
-    
-}
+
 .event-item a{
     color: red;
     letter-spacing: 3px;
@@ -249,9 +243,7 @@ nav ul li a{
     letter-spacing: 1px;
     text-transform: capitalize;
 }
-.tour-item img{
 
-}
 .img-1{
     height:280px;
     -o-object-fit: cover;
@@ -288,6 +280,18 @@ footer{
 
 }
 .icons a i{
+    color: red;
+    padding: 0 0 20px 0;
+}
+
+footer div div p{
+    padding: 20px 0 0 0;
+}
+    
+.foot-content ul{ 
+    display: flex;
+    justify-content: space-between;
+    list-style:none;
     color: red;
 }
 
